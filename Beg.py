@@ -11,6 +11,7 @@ name = 'Zhenya'
 y = 123
 z = 1.23
 v = True
+k = False
 
 
 
