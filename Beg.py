@@ -12,7 +12,7 @@ y = 123
 z = 1.23
 v = True
 k = 12
-
+sm = 25
 
 
 print(name + str(y))
