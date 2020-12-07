@@ -13,6 +13,8 @@ z = 1.23
 v = True
 k = 12
 
+hi = 33
+
 
 
 print(name + str(y))
