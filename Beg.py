@@ -7,7 +7,7 @@
 
 # VARIABLES and DATA TYPES
 
-name = 'Vlad'
+name = 'Zhenya'
 y = 123
 z = 1.23
 v = True
